@@ -1,0 +1,4 @@
+id	name	mass [g/mol]	latitude [rad]	longitude [rad]
+Top
+19616	C60	720.6599999999999	1.0472003858431258	6.818220623887926e-14
+Bottom

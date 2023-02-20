@@ -1,0 +1,4 @@
+Mass [g/mol]	Number	Names
+Top
+720.66	1	C60
+Bottom

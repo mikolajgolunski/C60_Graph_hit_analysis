@@ -1,0 +1,4 @@
+Total	Internal	Translational
+Top
+136.747620588	0.0	136.747620588
+Bottom

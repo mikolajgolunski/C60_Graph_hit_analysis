@@ -1,0 +1,4 @@
+id	name	mass [g/mol]	latitude [rad]	longitude [rad]
+Top
+8252	C2	24.022	1.4927604023851255	0.08353533037462867
+Bottom

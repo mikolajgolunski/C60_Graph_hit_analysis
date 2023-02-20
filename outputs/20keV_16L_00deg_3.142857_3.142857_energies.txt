@@ -1,0 +1,4 @@
+Total	Internal	Translational
+Top
+0.61899620174	0.486943408531	0.132052793209
+Bottom

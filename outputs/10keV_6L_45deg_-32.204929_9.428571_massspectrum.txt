@@ -1,0 +1,7 @@
+Mass [g/mol]	Number	Names
+Top
+12.011	18	C
+24.022	98	C2
+36.033	4	C3
+48.044	2	C4
+Bottom

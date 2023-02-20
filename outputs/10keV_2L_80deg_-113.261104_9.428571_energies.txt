@@ -1,0 +1,4 @@
+Total	Internal	Translational
+Top
+358.494622831	7.17908026511	351.315542566
+Bottom

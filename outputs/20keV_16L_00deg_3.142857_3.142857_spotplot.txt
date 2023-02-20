@@ -1,0 +1,4 @@
+id	name	mass [g/mol]	latitude [rad]	longitude [rad]
+Top
+189	C3	36.033	0.29322209139941713	-2.614805218214848
+Bottom

@@ -1,0 +1,10 @@
+Top
+Total mass:	876.8029999999995
+C60 mass:	24.022
+Graphene mass:	852.7809999999995
+Phenylalanine mass:	0
+Bottom
+Total mass:	0
+C60 mass:	0
+Graphene mass:	0
+Phenylalanine mass:	0

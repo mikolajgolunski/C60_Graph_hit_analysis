@@ -1,0 +1,3 @@
+# Analysis of C60 hitting graphene
+
+Set of scripts written in Python reading files created during molecular dynamics simulations in LAMMPS, calculating properties of the system (such as categorizing sets of atoms into molecules, finding molecule's center of mass, and so on), and based on these properties analysing system (for example finding mass spectra and yields). Results are written into a .csv file which can be later read by "analysis" notebooks written in Wolfram Mathematica for visualizations.

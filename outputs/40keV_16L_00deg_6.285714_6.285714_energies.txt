@@ -1,0 +1,4 @@
+Total	Internal	Translational
+Top
+39452.3855301	2.94604633834e-26	39452.3855301
+Bottom
